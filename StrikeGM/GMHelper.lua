@@ -1,0 +1,1 @@
+local function a(b,c,d,e,f)local g={}if g==1 then local h=print;h(l)end;if g==2 then local i=print;i(c)end;if g==3 then do local j=print;j(b)end end;if g==4 then do local k=print;k(d)end end;if g==5 then do local m=print;m(e)end end;if g==6 then do local n=print;n(f)end end end;local o="https://goo.gl"o=o;O=o
